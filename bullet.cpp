@@ -38,6 +38,7 @@ float bulletspeed=0.0005;
 int bulletborder = 80,v=0;
 static float move=0.0;
 
+/*This is the main Function*/
 int main (int argc,char** argv)
 {
 glutInit(&argc, argv);
